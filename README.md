@@ -30,7 +30,7 @@ https://www.archlinux.org/download/
 16. Mount
 17.  Intall Arch Linux -- linux lts    (this takes several minutes)
 18. Config Arch Linux
-19.     Set Computer Name
+19.   Set Computer Name
 20.     Keyboard Layout -- us
 21.     Set Locale -- en_US
 22.     Set Time --  US
