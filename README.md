@@ -7,27 +7,28 @@ https://www.archlinux.org/download/
 4. Reboot your machine with the ISO.
 5. Make sure you have internet connection.
 6. Code as follow in terminal
-ping google.com    (use control+C  to quit from ping)
-wifi-menu   (enter your credentials)
-wget archfi.sf.net/archfi
-7. At this time you will have blue screen.
-Language -- English
-Set Keyboard Layout -- us
-Editor -- nano
-Disk Partitions -- gpt
-back (using tab or arrows)
-Select Partitions and Install
-  boot /dev/sda1
-  swap /dev/sda2
-  root /dev/sda3
-  home /dev/sda4
-Format Devices
-  boot ext2
-  swap swap
-  root btrfs
-Back or cancel
-Mount
-  Intall Arch Linux -- linux lts
-  
+7. ping google.com    (use control+C  to quit from ping)
+8. wifi-menu   (enter your credentials)
+9. wget archfi.sf.net/archfi
+10. sh archfi
+# At this time you will have the archfi blue screen.
+1. Language -- English
+2. Set Keyboard Layout -- us
+3. Editor -- nano
+4. Disk Partitions -- gpt
+5. back (using tab or arrows)
+6. Select Partitions and Install
+7.  boot /dev/sda1
+8.  swap /dev/sda2
+9.  root /dev/sda3
+10.  home /dev/sda4
+11. Format Devices
+12.  boot ext2
+13.  swap swap
+14.  root btrfs
+15. Back or cancel
+16. Mount
+17.  Intall Arch Linux -- linux lts
+    
   
   
