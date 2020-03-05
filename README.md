@@ -28,7 +28,22 @@ https://www.archlinux.org/download/
 14.  root btrfs
 15. Back or cancel
 16. Mount
-17.  Intall Arch Linux -- linux lts
-    
-  
-  
+17.  Intall Arch Linux -- linux lts    (this takes several minutes)
+18. Config Arch Linux
+19.     Set Computer Name
+20.     Keyboard Layout -- us
+21.     Set Locale -- en_US
+22.     Set Time --  US
+23.     Set root password
+24.     Generate fstab -- UUID
+25.     Bootloader -- grub -- install grub
+26.     Install bootloader
+27.     Back
+28. Enable dhcpcd
+29. Archdi -- yes
+30.     Install and Run Archdi
+31.     sourceforge
+32.     Updates
+33.         Install pacman-contrib
+34.             Install yay
+
