@@ -51,14 +51,17 @@ https://www.archlinux.org/download/
 36. Back
 37. Install
 38. Console Generic
-39. Default + add [X]neofetch   (tab key to select, then OK)
+39. Default + add (tab key to select, then OK)
+        [X]neofetch   
 40. Compression Tools (all)
-41. Networks Toos -- Default and add [X]nmap & [X]speedtest
+41. Networks Toos -- Default and add 
+        [X]nmap & [X]speedtest
 42. Back
 __________
 43. System
 44. Services -- default selection is OK -- then all yes
-45. File System -- default selection and add [*]sshfs [*]difs [*]gvfs
+45. File System -- default selection and add
+        [X]sshfs [X]difs [X]gvfs
 46. Sound -- default selection is OK
 47. Back
 __________
@@ -85,6 +88,7 @@ Back
 1. Add User -- your name
 2. Sudoers -- add sudoer -- OK
 3. Back.
+# Systemd
 4. Systemd -- timedatectl
 5. Enable timedatectl -- ok
 6. Edit /etc/systemd/timesyncd.conf (modify as follows)
@@ -100,4 +104,7 @@ Back
 13. Back
 14. Reboot
 15. Yes
+# Ready Arch - Bare Bones
+
+# awesome installation
 
