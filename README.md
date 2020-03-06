@@ -7,10 +7,11 @@ https://www.archlinux.org/download/
 4. Reboot your machine with the ISO.
 5. Make sure you have internet connection.
 6. Code as follow in terminal
-7. ping google.com    (use control+C  to quit from ping)
-8. wifi-menu   (enter your credentials)
-9. wget archfi.sf.net/archfi
-10. sh archfi
+7.      ping google.com    (use control+C  to quit from ping)
+8.      wifi-menu   (enter your credentials)
+9.      pacman -Sy    
+10.     wget archfi.sf.net/archfi
+11.     sh archfi
 # At this time you will have the archfi blue screen.
 1. Language -- English
 2. Set Keyboard Layout -- us
