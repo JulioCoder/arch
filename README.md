@@ -51,9 +51,9 @@ https://www.archlinux.org/download/
 36. Back
 37. Install
 38. Console Generic
-39. Default + add [*]neofetch   (tab key to select, then OK)
+39. Default + add [X]neofetch   (tab key to select, then OK)
 40. Compression Tools (all)
-41. Networks Toos -- Default and add [*]nmap & [*]speedtest
+41. Networks Toos -- Default and add [X]nmap & [X]speedtest
 42. Back
 __________
 43. System
