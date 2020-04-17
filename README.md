@@ -106,5 +106,6 @@ Back
 15. Yes
 # Ready Arch - Bare Bones
 
-# awesome installation
+## Some pkgs to install
 
+`yay -S awesome rofi compton i3lock xclip flameshot gnome-keyring qt5-styleplugins-git ttf-rototo htop rofi`
