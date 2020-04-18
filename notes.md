@@ -19,7 +19,7 @@
 
 `yay -S lightdm-slick-greeter`
 
-`vim /etc/lightdm/lightdm.conf`
+`sudo vim /etc/lightdm/lightdm.conf`
 
 > greeter-session=lightdm-slick-greeter
 
