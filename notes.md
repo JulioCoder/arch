@@ -30,6 +30,14 @@ Search: **Customize Look and Feel** to change appearance
 
 #### Some commands to remember
 
+Login Linux while failing at Start
+
+`Control + Alt + F2`
+
+When Stock in VIM while push ctl + s 
+
+`Control + Q`
+
 `sudo pacman -S <some_pkgs>`
 
 `sudo pacman -Rnsd <some_pkg>`
