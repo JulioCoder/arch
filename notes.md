@@ -28,13 +28,19 @@ Search: **Customize Look and Feel** to change appearance
 > In Widget set Materia-Dark-compact
 > In Icon Theme set Papirus
 
+#### Skip Grub Menu
+
+`sudo nano /etc/default/grub`
+> Change GRUB_TIMEOUT from 5 to 0
+`sudo grub-mkconfig -o /boot/grub/grub.cfg`
+
 #### Some commands to remember
 
 Login Linux while failing at Start
 
 `Control + Alt + F2`
 
-When Stock in VIM while push ctl + s 
+When Stock in VIM while press Ctl + S
 
 `Control + Q`
 
