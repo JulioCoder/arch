@@ -36,24 +36,33 @@ Search: **Customize Look and Feel** to change appearance
 
 #### Some commands to remember
 
-Login Linux while failing at Start
-
-`Control + Alt + F2`
-
-When Stock in VIM while press Ctl + S
-
-`Control + Q`
-
+Linux failing at Start `Control + Alt + F2`
+When Stock in VIM `Control + Q`
 `sudo pacman -S <some_pkgs>`
-
 `sudo pacman -Rnsd <some_pkg>`
-
 `sudo pacman -Rnsd $(pacman -Qtdq)`
-
 `mkdir -p ~/large/path/`
-
 `rxvt-unicode`
+`sshfs usuario@your_ip:/ ~/test -C -p 9876`
+Network Manager `nmcli`
+`nmcli device show`
+`ip route`
+`lsblk -f`
+create `git init --bare`
+remove `rm -rf HEAD config hooks objects branches description info refs`
+
+#### Awesome
+
+Mod + Ctl + j : focus on next screen
+Mod + o : move windows to other screen
+
 
 #### Markdown Cheat Sheet
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+#### djando-server
+
+after terminate and start django-server
+update PUBLICK IP in django_project/settings.py
+`sudo service apache2 restart`
