@@ -38,12 +38,20 @@ Search: **Customize Look and Feel** to change appearance
 
 Linux failing at Start `Control + Alt + F2`
 
-When Stock in VIM `Control + Q`
+When Stock in VIM
+
+`Control + Q`
+
 `sudo pacman -S <some_pkgs>`
+
 `sudo pacman -Rnsd <some_pkg>`
+
 `sudo pacman -Rnsd $(pacman -Qtdq)`
+
 `mkdir -p ~/large/path/`
+
 `rxvt-unicode`
+
 `sshfs usuario@your_ip:/ ~/test -C -p 9876`
 
 Network Manager `nmcli`
