@@ -37,6 +37,7 @@ Search: **Customize Look and Feel** to change appearance
 #### Some commands to remember
 
 Linux failing at Start `Control + Alt + F2`
+
 When Stock in VIM `Control + Q`
 `sudo pacman -S <some_pkgs>`
 `sudo pacman -Rnsd <some_pkg>`
@@ -44,11 +45,14 @@ When Stock in VIM `Control + Q`
 `mkdir -p ~/large/path/`
 `rxvt-unicode`
 `sshfs usuario@your_ip:/ ~/test -C -p 9876`
+
 Network Manager `nmcli`
 `nmcli device show`
 `ip route`
 `lsblk -f`
+
 create `git init --bare`
+
 remove `rm -rf HEAD config hooks objects branches description info refs`
 
 #### Awesome
